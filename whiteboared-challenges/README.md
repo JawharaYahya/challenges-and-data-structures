@@ -7,7 +7,7 @@
 
 
 ![image of the code](ArrayReverse.JPG)
-
+ 
 # Challenge B: Most Frequent Number 
 
 ## Description:
