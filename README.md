@@ -6,7 +6,7 @@
 
 
 
-![image of the code](ArrayReverse.JPG)
+![image of the code](whiteboared-challenges/ArrayReverse.JPG)
  
 # Challenge B: Most Frequent Number 
 
@@ -18,4 +18,4 @@
 
 ### If multiple numbers have the same highest frequency, return the first one encountered among them in the array.
 
-![image of the code](FindMaxnumber.JPG)
+![image of the code](whiteboared-challenges/FindMaxnumber.JPG)
