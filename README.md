@@ -19,3 +19,12 @@
 ### If multiple numbers have the same highest frequency, return the first one encountered among them in the array.
 
 ![image of the code](whiteboared-challenges/FindMaxnumber.JPG)
+
+
+# Challenge C: MinimumValue Challenge
+
+## Description:
+
+### The challenge is to create a function named MinimumValue that takes an array of integers and returns the smallest number, without using any built-in methods.
+
+![image of the code](whiteboared-challenges/MinimumValue.JPG)
