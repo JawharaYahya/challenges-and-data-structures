@@ -28,3 +28,7 @@
 ### The challenge is to create a function named MinimumValue that takes an array of integers and returns the smallest number, without using any built-in methods.
 
 ![image of the code](whiteboared-challenges/MinimumValue.JPG)
+
+# Challenge 03: Reverese Characters 
+
+### Clike here [Reverese Characters README.md ](README.md)
