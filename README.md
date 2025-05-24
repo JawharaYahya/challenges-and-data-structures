@@ -23,4 +23,4 @@
 # Challenge 03: Reverse characters
 
 ### click below 
-[Reverse characters README](README.md)
+[Reverse characters README](Challenges/Reverse-Characters/README.md)
