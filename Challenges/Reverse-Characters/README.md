@@ -7,4 +7,4 @@
 
 ### Image of console.log output
 
-![image of solution](oUTPUT.JPG)
+![image of solution](oUTPUT.JPG) 
