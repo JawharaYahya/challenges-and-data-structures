@@ -28,3 +28,9 @@
 ### The challenge is to create a function named MinimumValue that takes an array of integers and returns the smallest number, without using any built-in methods.
 
 ![image of the code](MinimumValue.JPG)
+
+
+# Challenge 03: Reverse characters
+
+Click below
+[Reverse characters README](README.md)

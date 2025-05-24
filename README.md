@@ -19,3 +19,8 @@
 ### If multiple numbers have the same highest frequency, return the first one encountered among them in the array.
 
 ![image of the code](whiteboared-challenges/FindMaxnumber.JPG)
+
+# Challenge 03: Reverse characters
+
+### click below 
+[Reverse characters README](README.md)
