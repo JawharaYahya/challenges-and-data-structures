@@ -25,3 +25,8 @@
 ### click below 
 [Reverse characters README](Challenges/Reverse-Characters/README.md)
 
+# Challenge 04: Remove Middle Value
+
+### click below 
+[ Remove Middle Value READme](Challenges\RemoveMiddleIndex\README.md)
+
