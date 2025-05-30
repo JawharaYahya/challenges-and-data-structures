@@ -2,8 +2,10 @@
 
 ## The ReversedCharacters function takes a single string as input and returns a new string with all the characters reversed.without using any built in methods.
 
-### Image of solution
-![image of solution](Capture.JPG)
+
+### Image of Whiteboared
+![image of solution](WHboared.JPG)
+
 
 ### Image of console.log output
 

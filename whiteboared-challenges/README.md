@@ -29,6 +29,9 @@
 
 ![image of the code](MinimumValue.JPG)
 
-# Challenge 03 Reverese Characters:
 
-[Reverese Characters README.md ](README.md)
+# Challenge 03: Reverse characters
+
+Click below
+[Reverse characters README](README.md)
+
