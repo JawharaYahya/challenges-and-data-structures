@@ -28,5 +28,5 @@
 # Challenge 04: Remove Middle Value
 
 ### click below 
-[ Remove Middle Value READme](Challenges\RemoveMiddleIndex\README.md)
+[ Remove Middle Value READme](README.md)
 
