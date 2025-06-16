@@ -1,7 +1,7 @@
 const LinkedList= require("./linkedList");
 test ('printList() on empty list returns "Head -> Null"',() => {
     const list =new LinkedList();
-    expect(list.printList()).toBe("Head -> Null");
+    expect(list.printList()).toBe("Head -> Null (Empty List)");
    
 })
 
