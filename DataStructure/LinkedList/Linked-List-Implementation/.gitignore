@@ -7,6 +7,16 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+# Ignore these folders
+Challenges/
+whiteboard-challenges/
+
+# Ignore the root README
+README.md
+
+# Don't ignore Linked-List-Implementation
+!DataStructure/LinkedList/Linked-List-Implementation/
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
