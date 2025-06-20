@@ -14,4 +14,4 @@
 
 ## Capture of the test terminal 
 
-![image of the console-log Output](..\docs\testTerminalJPG.JPG) 
+![image of the console-log Output](..\docs\testTerminalJPG.JPG)     
