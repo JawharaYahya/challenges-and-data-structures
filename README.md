@@ -37,3 +37,11 @@
 # Challenge 04: Remove Middle Value
 
 [ Remove Middle Value READme](Challenges\RemoveMiddleIndex\README.md)
+
+# LinkedList challenges:
+### challenge 1: singly LinkedList 
+[singly LinkedList](DataStructure\LinkedList\Linked-List-Implementation\README.md) 
+
+### challenge 2: reverse linkedlist
+
+[reverse LinkedList](DataStructure\LinkedList\Linked-List-Implementation\Reverse\README.md) 
