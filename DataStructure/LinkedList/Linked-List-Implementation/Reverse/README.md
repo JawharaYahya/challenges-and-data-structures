@@ -6,12 +6,12 @@
 
 ## Capture of the whiteBoared
 
-![image of the whiteBoared](..\docs\Whiteboared.JPG)
+![image of the whiteBoared](../docs/Whiteboared.JPG)
 
 ## Capture of the console-log Output
 
-![image of the console-log Output](..\docs\logOutput.JPG)
+![image of the console-log Output](../docs/logOutput.JPG)
 
 ## Capture of the test terminal 
 
-![image of the console-log Output](..\docs\testTerminalJPG.JPG)     
+![image of the console-log Output](../docs/testTerminalJPG.JPG)    
